@@ -2,7 +2,7 @@
 
 ## • 📜 Historic:
 
-### &nbsp; 🎓 Graduating in the first year in Software Engineering at FIAP | 🎓 Graduated from the IT technical course at FECAP (Fundação Escola Comércio Álvares Penteado) | ✍️ Advanced Intermediate English from Cellep.
+### 🇧🇷 São Paulo - Brazil | 🎓 Graduating in the first year in Software Engineering at FIAP | 🎓 Graduated from the IT technical course at FECAP (Fundação Escola Comércio Álvares Penteado) | ✍️ Advanced Intermediate English from Cellep.
 <br>
 
 ## • ⭐ My Social Medias:
