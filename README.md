@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas Simidu! 👋😸
 
-## • 📜 Curriculum:
+## • 📜 Historic:
 
 ### &nbsp; 🎓 Graduating in the first year in Software Engineering at FIAP | 🎓 Graduated from the IT technical course at FECAP (Fundação Escola Comércio Álvares Penteado) | ✍️ Advanced Intermediate English from Cellep.
 <br>
@@ -18,8 +18,8 @@
 <br>
 
 ![Simidu GitHub stats](https://github-readme-stats.vercel.app/api?username=ldsimidu&show_icons=true&theme=radical)
-<br>
-<br>
+<br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldsimidu&layout=pie)](https://github.com/ldsimidu/github-readme-stats)
 
 ## • 💻 Technologys that I use on my days:
 
