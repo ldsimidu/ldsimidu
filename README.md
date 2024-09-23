@@ -15,7 +15,7 @@
 
 ## <img src="https://media.tenor.com/oYgY0td9TrUAAAAi/internet-webcore.gif" width="40"> **Language & Tools:** 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,python,mysql,nodejs,git,figma,ps,vscode" /> <br><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,html,css,scss,react,js,python,cs,cpp,sqlite,mysql,nodejs,git,figma,ps,vscode,excel" /> <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldsimidu&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="ldsimidu" "/>
     <br>
 </div>
