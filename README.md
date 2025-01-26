@@ -9,9 +9,6 @@
 - 🌱 I'm currently learning **Flask**, **RobotFramework**, **SQLAlchemy**, **JavaScript**
 - 💬 My strenghts are **Python, HTML/CSS, JavaScript**
 - ⚡ Fun fact **I recently got a new job at Quality Assurance!**
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldsimidu&theme=cobalt&hide_border=true" alt="ldsimidu" />
-</div>
 
 ## <img src="https://media.tenor.com/oYgY0td9TrUAAAAi/internet-webcore.gif" width="40"> **Language & Tools:** 
 <div align="center">
