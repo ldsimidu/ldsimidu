@@ -7,7 +7,8 @@
 - 🔭 I'm currently studying Software Engineering at FIAP  
 - 🌱 I'm learning **Kotlin**, **RobotFramework**, **Postman**, **Python**  
 - 💬 My strengths are **Python, HTML and RobotFramework**!! 
-- ⚡ Fun fact: **I recently got a new job in Quality Assurance at C6 Bank here in Brazil!**  
+- ⚡ Fun fact: I love the **Pokémon franchise** =)
+- ⏳ Recently: **I got a new job in Quality Assurance at C6 Bank here in Brazil!**  
 
 # 🧑🏻‍💼 My Career
 ---
