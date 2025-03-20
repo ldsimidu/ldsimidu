@@ -21,7 +21,7 @@
   - Working with automation tools developed using **RobotFramework**.
   - Directly involved in the App Release team, responsible for testing the app, Releases and hotfixes of new versions and their publications
 
-## 🎓 **Education**  
+## 🎓 **Academic Experience**  
 - **🟥 FIAP | Software Engineering Student**  
   *🗓️ Feb 2024 – Present*  
   - Participating in software development projects and focusing on programming languages and systems analysis.  
