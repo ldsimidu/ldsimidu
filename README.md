@@ -10,13 +10,16 @@
 - ⚡ Fun fact: I love the **Pokémon franchise** =)
 - ⏳ Recently: **I got a new job in Quality Assurance at C6 Bank here in Brazil!**  
 
-# 🧑🏻‍💼 My Career
 ---
+
+# 🧑🏻‍💼 My Career
+
 
 ## 🏢 **Professional Experience**  
 - **🟨 C6 BANK | Intern - Quality Assurance**  
   *🗓️ Jul 2024 – Present*  
-  - Working with automation tools developed using **RobotFramework**.  
+  - Working with automation tools developed using **RobotFramework**.
+  - Directly involved in the App Release team, responsible for testing the app, Releases and hotfixes of new versions and their publications
 
 ## 🎓 **Education**  
 - **🟥 FIAP | Software Engineering Student**  
