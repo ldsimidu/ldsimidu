@@ -3,16 +3,18 @@
 </h1>
 <h3 align="center">I'm a Brazilian Quality Assurance Specialist and Developer 🇧🇷</h3>
 
+
+<div align=center>
+    <img align="center" src="https://streak-stats.demolab.com?user=ldsimidu&theme=transparent&hide_border=true" alt="ldsimidu"/>
+</div>
+
+
 # 🤸🏻‍♂️ **About Me:** 
 - 🔭 I'm currently studying Software Engineering at FIAP  
 - 🌱 I'm learning **Kotlin**, **RobotFramework**, **Postman**, **Python**  
 - 💬 My strengths are **Python, HTML and RobotFramework**!! 
 - ⚡ Fun fact: I love the **Pokémon franchise** =)
 - ⏳ Recently: **I got a new job in Quality Assurance at C6 Bank here in Brazil!**  
-
----
-
-# 🧑🏻‍💼 My Career
 
 
 ## 🏢 **Professional Experience**  
@@ -30,16 +32,15 @@
   *🗓️ Feb 2022 – Nov 2023*  
   - Developed technical interdisciplinary projects, presented to technology professionals.  
 
-## 🌐 **Languages**  
+## 🌐 **I can speak**  
 - Intermediate-Advanced English by CELLEP  
 - Basic Spanish  
 
----
 
 ## 💻 **Languages & Tools:** 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,html,css,scss,react,js,python,cs,cpp,sqlite,mysql,nodejs,git,figma,ps,vscode,excel" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldsimidu&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="ldsimidu" "/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldsimidu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="ldsimidu" "/>
     <br>
 </div>
 
@@ -56,6 +57,6 @@
 ## <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30"> **Stats:** 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldsimidu&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="ldsimidu"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldsimidu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="ldsimidu"/>
 </div>
 
