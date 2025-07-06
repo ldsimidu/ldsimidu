@@ -40,7 +40,7 @@
 ## 💻 **Languages & Tools:** 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,html,css,scss,react,js,python,cs,cpp,sqlite,mysql,nodejs,git,figma,ps,vscode,excel" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldsimidu&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ldsimidu" "/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldsimidu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="ldsimidu" "/>
     <br>
 </div>
 
