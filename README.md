@@ -1,51 +1,35 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Lucas+Simidu!;" />
-</h1>
-<h3 align="center">I'm a Brazilian Quality Assurance Specialist and Developer 🇧🇷</h3>
+
+<p>
+  <b>Hi, I'm Lucas! ☕</b>  <br>
+  <b>A Software Engineering Student!</b>  
+</p>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-<div align=center>
-    <img align="center" src="https://streak-stats.demolab.com?user=ldsimidu&theme=transparent&hide_border=true" alt="ldsimidu"/>
-</div>
+<p align="left"> 
+🔭 I'm currently studying Software Engineering at FIAP <br>
+</p>
+
+<p align="left">
+🌱 I'm learning <b>React</b>, <b>RobotFramework</b>, <b>TypeScript</b> and more!  <br> 
+</p>
 
 
-# 🤸🏻‍♂️ **About Me:** 
-- 🔭 I'm currently studying Software Engineering at FIAP  
-- 🌱 I'm learning **Kotlin**, **RobotFramework**, **Postman**, **Python**  
-- 💬 My strengths are **Python, HTML and RobotFramework**!! 
-- ⚡ Fun fact: I love the **Pokémon franchise** =)
-- ⏳ Recently: **I got a new job in Quality Assurance at C6 Bank here in Brazil!**  
+
+<p align="left">
+⚡ Fun fact: I love the **Pokémon franchise** =) <br> 
+</p>
+
+<p align="left">
+⏳ Currently, <b>I'm working on Quality Assurance at C6 Bank here in Brazil!</b>  <br> 
+</p>
 
 
-## 🏢 **Professional Experience**  
-- **🟨 C6 BANK | Intern - Quality Assurance**  
-  *🗓️ Jul 2024 – Present*  
-  - Working with automation tools developed using **RobotFramework**.
-  - Directly involved in the App Release team, responsible for testing the app, Releases and hotfixes of new versions and their publications
 
-## 🎓 **Academic Experience**  
-- **🟥 FIAP | Software Engineering Student**  
-  *🗓️ Feb 2024 – Present*  
-  - Participating in software development projects and focusing on programming languages and systems analysis.  
-
-- **🟩 FECAP | Technical Informatics High School Course**  
-  *🗓️ Feb 2022 – Nov 2023*  
-  - Developed technical interdisciplinary projects, presented to technology professionals.  
-
-## 🌐 **I can speak**  
-- Intermediate-Advanced English by CELLEP  
-- Basic Spanish  
-
-
-## 💻 **Languages & Tools:** 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,html,css,scss,react,js,python,cs,cpp,sqlite,mysql,nodejs,git,figma,ps,vscode,excel" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldsimidu&show_icons=true&layout=compact&theme=transparent&hide_border=true" alt="ldsimidu" "/>
-    <br>
-</div>
-
-## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Reach Out to Me:** 
-<p align="center">
+<p align="left">
   <a href="mailto:luildsimidu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -54,9 +38,19 @@
   </a>
 </p>
 
-## <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30"> **Stats:** 
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldsimidu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="ldsimidu"/>
+
+<div align=left>
+    <img align="center" src="https://streak-stats.demolab.com?user=ldsimidu&theme=transparent&hide_border=true" alt="ldsimidu"/>
 </div>
 
+##
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,html,css,scss,react,js,python,cs,cpp,sqlite,mysql,nodejs,git,figma,ps,vscode,excel" /> <br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldsimidu&show_icons=true&layout=compact&theme=transparent&hide_border=true" alt="ldsimidu" "/>
+    <br>
+</div>
+
+
+![Snake animation](https://github.com/ldsimidu)
