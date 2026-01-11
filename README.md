@@ -52,13 +52,27 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ldsimidu/ldsimidu/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🏢 **Professional Experience**  
+
+
+<br>
+<br>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=BB00F7&width=435&lines=Professional+Experience+)](https://git.io/typing-svg)
+
 - **🟨 C6 BANK | Intern - Quality Assurance**  
   *🗓️ Jul 2024 – Present*  
   - Working with automation tools developed using **RobotFramework**.
   - Directly involved in the App Release team, responsible for testing the app, Releases and hotfixes of new versions and their publications
 
-## 🎓 **Academic Experience**  
+##
+
+<br>
+<br>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=BB00F7&width=435&lines=Academic+Experience+)](https://git.io/typing-svg)
+
 - **🟥 FIAP | Software Engineering Student**  
   *🗓️ Feb 2024 – Present*  
   - Participating in software development projects and focusing on programming languages and systems analysis.  
@@ -66,7 +80,3 @@
 - **🟩 FECAP | Technical Informatics High School Course**  
   *🗓️ Feb 2022 – Nov 2023*  
   - Developed technical interdisciplinary projects, presented to technology professionals.  
-
-## 🌐 **I can speak**  
-- Intermediate-Advanced English by CELLEP  
-- Basic Spanish  
