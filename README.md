@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=BB00F7&width=435&lines=Hi%2C+I'm+Lucas!+%E2%98%95;A+Software+Engineering;Student!)](https://git.io/typing-svg)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <p align="left"> 
