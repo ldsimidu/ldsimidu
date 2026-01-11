@@ -1,12 +1,4 @@
-
-<p>
-  <h1>Hi, I'm Lucas! ☕</h1>  <br>
-  <b>A Software Engineering Student!</b>  
-</p>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=3000&pause=1000&color=F70000&width=435&lines=Hi%2C+I'm+Lucas!+%E2%98%95;A+Software+Engineering+Student!)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <p align="left"> 
@@ -48,9 +40,11 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,html,css,scss,react,js,python,cs,cpp,sqlite,mysql,nodejs,git,figma,ps,vscode,excel" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldsimidu&show_icons=true&layout=compact&theme=transparent&hide_border=true" alt="ldsimidu" "/>
-    <br>
 </div>
 
 
-![Snake animation](https://github.com/ldsimidu)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldsimidu/ldsimidu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldsimidu/ldsimidu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ldsimidu/ldsimidu/output/github-contribution-grid-snake.svg">
+</picture>
