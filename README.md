@@ -1,6 +1,6 @@
 
 <p>
-  <b>Hi, I'm Lucas! ☕</b>  <br>
+  <h1>Hi, I'm Lucas! ☕</h1>  <br>
   <b>A Software Engineering Student!</b>  
 </p>
 
