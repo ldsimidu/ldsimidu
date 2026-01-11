@@ -28,10 +28,8 @@
   </a>
 </p>
 
-
-
 <div align=center>
-    <img align="center" src="https://streak-stats.demolab.com?user=ldsimidu&theme=transparent&hide_border=true" alt="ldsimidu"/>
+  <img src="https://streak-stats.demolab.com?user=ldsimidu&theme=radical&border_radius=5.5" alt="GitHub Streak" />
 </div>
 
 <div style="display: inline_block" align=center><br>
