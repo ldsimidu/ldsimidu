@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=3000&pause=1000&color=F70000&width=435&lines=Hi%2C+I'm+Lucas!+%E2%98%95;A+Software+Engineering+Student!)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=BB00F7&width=435&lines=Hi%2C+I'm+Lucas!+%E2%98%95;A+Software+Engineering;Student!)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <p align="left"> 
@@ -7,12 +9,6 @@
 
 <p align="left">
 🌱 I'm learning <b>React</b>, <b>RobotFramework</b>, <b>TypeScript</b> and more!  <br> 
-</p>
-
-
-
-<p align="left">
-⚡ Fun fact: I love the **Pokémon franchise** =) <br> 
 </p>
 
 <p align="left">
@@ -36,12 +32,19 @@
     <img align="center" src="https://streak-stats.demolab.com?user=ldsimidu&theme=transparent&hide_border=true" alt="ldsimidu"/>
 </div>
 
-##
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,html,css,scss,react,js,python,cs,cpp,sqlite,mysql,nodejs,git,figma,ps,vscode,excel" /> <br><br>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
+  
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldsimidu/ldsimidu/output/github-contribution-grid-snake-dark.svg">
