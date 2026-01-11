@@ -32,9 +32,7 @@
     <img align="center" src="https://streak-stats.demolab.com?user=ldsimidu&theme=transparent&hide_border=true" alt="ldsimidu"/>
 </div>
 
-
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align=center><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -43,7 +41,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
+
 ##
 
 <picture align="center">
@@ -51,3 +49,22 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldsimidu/ldsimidu/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ldsimidu/ldsimidu/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 🏢 **Professional Experience**  
+- **🟨 C6 BANK | Intern - Quality Assurance**  
+  *🗓️ Jul 2024 – Present*  
+  - Working with automation tools developed using **RobotFramework**.
+  - Directly involved in the App Release team, responsible for testing the app, Releases and hotfixes of new versions and their publications
+
+## 🎓 **Academic Experience**  
+- **🟥 FIAP | Software Engineering Student**  
+  *🗓️ Feb 2024 – Present*  
+  - Participating in software development projects and focusing on programming languages and systems analysis.  
+
+- **🟩 FECAP | Technical Informatics High School Course**  
+  *🗓️ Feb 2022 – Nov 2023*  
+  - Developed technical interdisciplinary projects, presented to technology professionals.  
+
+## 🌐 **I can speak**  
+- Intermediate-Advanced English by CELLEP  
+- Basic Spanish  
