@@ -30,7 +30,7 @@
 
 
 
-<div align=left>
+<div align=center>
     <img align="center" src="https://streak-stats.demolab.com?user=ldsimidu&theme=transparent&hide_border=true" alt="ldsimidu"/>
 </div>
 
